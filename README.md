@@ -1,4 +1,4 @@
-# mParticle Apple Kit Library
+# Appsee Kit Integration
 
 A kit is an extension to the core [mParticle Apple SDK](https://github.com/mParticle/mparticle-apple-sdk). A kit works as a bridge between the mParticle SDK and a partner SDK. It abstracts the implementation complexity, simplifying the implementation for developers.
 
@@ -9,13 +9,7 @@ A kit takes care of initializing and forwarding information depending on what yo
 
 ## Installation
 
-Please refer to installation instructions in the core mParticle Apple SDK [README](https://github.com/mParticle/mparticle-apple-sdk#get-the-sdk), or check out our [SDK Documentation](http://docs.mparticle.com/#mobile-sdk-guide) site to learn more.
-
-
-## Create Your Own Integration
-
-Detailed instructions on how to implement your own integration with the mParticle Apple SDK can be found [here](https://github.com/mparticle-integrations/mparticle-apple-integration-example/wiki/Kit-Integration-Development).
-
+Please refer to installation instructions in the core mParticle Apple SDK [README](https://github.com/mParticle/mparticle-apple-sdk#get-the-sdk), or check out our [SDK Documentation](http://docs.mparticle.com/) site to learn more.
 
 ## Support
 
