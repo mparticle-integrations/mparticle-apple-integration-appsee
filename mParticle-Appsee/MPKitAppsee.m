@@ -19,9 +19,6 @@
 #import "MPKitAppsee.h"
 #import <Appsee/Appsee.h>
 
-// This is temporary to allow compilation (will be provided by core SDK)
-NSUInteger MPKitInstanceAppsee = 126;
-
 @implementation MPKitAppsee
 
 
