@@ -83,7 +83,7 @@
             [eventProps setObject:[event.info objectForKey:key] forKey:key];
         }
     }
-
+    
     // Add the event to appsee
     [Appsee addEvent:[event name] withProperties:eventProps];
     
