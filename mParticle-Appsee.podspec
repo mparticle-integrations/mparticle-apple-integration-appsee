@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = "mParticle-Appsee"
-    s.version          = "7.10.0"
+    s.version          = "7.10.1"
     s.summary          = "Appsee integration for mParticle"
 
     s.description      = <<-DESC
