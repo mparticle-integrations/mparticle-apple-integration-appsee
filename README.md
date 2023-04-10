@@ -7,7 +7,7 @@ This repository contains the [Appsee](https://www.appsee.com) integration for th
 1. Add the kit dependency to your app's Podfile:
 
     ```
-    pod 'mParticle-Appsee', '~> 7.0'
+    pod 'mParticle-Appsee', '~> 8'
     ```
 
 2. Follow the mParticle iOS SDK [quick-start](https://github.com/mParticle/mparticle-apple-sdk), then rebuild and launch your app, and verify that you see `"Included kits: { Appsee }"` in your Xcode console 
