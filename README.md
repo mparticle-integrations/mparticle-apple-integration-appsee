@@ -1,5 +1,13 @@
 ## Appsee Kit Integration
 
+### The Appsee integration is no longer supported
+
+The Appsee integration for the mParticle iOS SDK has been deprecated and is no longer supported. To find an alternative integration, visit [mParticle Integrations](https://docs.mparticle.com/integrations/).
+
+-----
+
+**Deprecated**
+
 This repository contains the [Appsee](https://www.appsee.com) integration for the [mParticle Apple SDK](https://github.com/mParticle/mparticle-apple-sdk).
 
 ### Adding the integration
@@ -18,7 +26,7 @@ This repository contains the [Appsee](https://www.appsee.com) integration for th
 
 ### Documentation
 
-[Appsee integration](https://docs.mparticle.com/integrations/appsee/event/)
+*The Appsee Integration documentation has been removed. To find an alternative integration, visit [mParticle Integrations](https://docs.mparticle.com/integrations/)*.
 
 ### License
 
